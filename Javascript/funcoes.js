@@ -1,4 +1,9 @@
 
+// bilioteca de JQuery está no html (qualsupersoldado)
+
+//                            |
+//Javascript externo simples  V
+
  function clique(){
    
    var valor = document.querySelector('input.escolha').value;
